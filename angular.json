@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tesseractPUC"
+    }
+  },
+  "defaultProject": "tesseractPUC",
+  "cli": {
+    "analytics": "8ed2523f-4c0f-4731-ab75-bb10d13885e1"
+  }
 }
