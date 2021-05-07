@@ -78,13 +78,14 @@
 .servicesubsection{
   margin-bottom: 0%;
   margin-top: 1%;
-  max-width: 630px;
-  width: 100%;
+  max-width: 535px;
+  width: 95%;
   display: flex;
   box-sizing: border-box;
-  margin-left: 20%;
+  margin-left: 23%;
   margin-right: auto;
 }
+
 
 hr {
   transform:rotate(90deg);
